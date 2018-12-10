@@ -1,4 +1,7 @@
 #!/bin/bash
+mkdir cloned 
+mkdir extract
+
 tar -xzf $1 -C extract
 if [ $# -eq 0 ]
 then
