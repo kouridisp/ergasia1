@@ -1,0 +1,3 @@
+https://www.wikipedia.org/wiki/Aristotle
+https://www.stackoverflow.com/questions/29423757/why-use-pointers-in-c
+https://www.google.gr
